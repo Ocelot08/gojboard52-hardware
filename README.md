@@ -6,7 +6,15 @@ half carries a capacitive touch-bar slider (Microchip AT42QT2120); the left half
 
 Firmware lives in its own repository: https://github.com/Ocelot08/gojboard52-zmk
 
-> Work in progress. Photos and build notes are still to come.
+![gojboard52, both halves side by side](photos/assembled-top.jpg)
+
+> Work in progress. Build notes are still to come.
+
+## Photos
+
+| | |
+| --- | --- |
+| ![Halves split apart, angled](photos/split-angle-1.jpg) | ![PCBs with switches fitted, before the case](photos/pcbs-with-switches.jpg) |
 
 ## Contents
 
@@ -19,6 +27,7 @@ Firmware lives in its own repository: https://github.com/Ocelot08/gojboard52-zmk
 | `case/stl/` | Printable support parts: touch-bar support, nice!view support, alignment frame |
 | `case/keycaps/` | Blank keycap and layer/mod keycap models |
 | `docs/` | AT42QT2120 datasheet |
+| `photos/` | The photos shown in this README |
 
 The editable Rhino (`.3dm`) case models are not in this repository because of their size (40 MB or more each).
 
