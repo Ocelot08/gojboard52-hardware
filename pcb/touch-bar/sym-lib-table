@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "BTSplit_Touch-cache") (type "Legacy") (uri "D:/Users/Nick/Documents/KiCad/Projects/BTSplit/BTSplit_TouchBar/BTSplit_Touch-cache.lib") (options "") (descr "Legacy project cache library"))
+)

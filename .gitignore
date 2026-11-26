@@ -1,0 +1,15 @@
+# KiCad
+*-backups/
+*.kicad_prl
+*.kicad_pcb-bak
+*.sch-bak
+*.bak
+fp-info-cache
+_autosave-*
+*.lck
+# Rhino / CAD backups
+*.3dmbak
+*.stlbak
+# OS
+Thumbs.db
+.DS_Store
