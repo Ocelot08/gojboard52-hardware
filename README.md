@@ -6,7 +6,7 @@ half carries a capacitive touch-bar slider (Microchip AT42QT2120); the left half
 
 Firmware lives in its own repository: https://github.com/Ocelot08/gojboard52-zmk
 
-![gojboard52, both halves side by side](photos/assembled-top.jpg)
+![Halves split apart, angled](photos/split-angle-1.jpg) 
 
 > Work in progress. Build notes are still to come.
 
@@ -14,7 +14,7 @@ Firmware lives in its own repository: https://github.com/Ocelot08/gojboard52-zmk
 
 | | |
 | --- | --- |
-| ![Halves split apart, angled](photos/split-angle-1.jpg) | ![PCBs with switches fitted, before the case](photos/pcbs-with-switches.jpg) |
+| ![gojboard52, both halves side by side](photos/assembled-top.jpg) | ![PCBs with switches fitted, before the case](photos/pcbs-with-switches.jpg) |
 
 ## Contents
 
